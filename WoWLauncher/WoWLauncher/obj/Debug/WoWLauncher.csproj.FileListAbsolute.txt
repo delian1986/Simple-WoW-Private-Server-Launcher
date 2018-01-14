@@ -1,0 +1,10 @@
+C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.exe.config
+C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.exe
+C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.pdb
+C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.csprojResolveAssemblyReference.cache
+C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.Form1.resources
+C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.Properties.Resources.resources
+C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.csproj.GenerateResource.Cache
+C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.csproj.CoreCompileInputs.cache
+C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.exe
+C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.pdb
