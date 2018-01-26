@@ -121,9 +121,6 @@
   <data name="WrathLogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\WrathLogo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="warmane" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\warmane1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="gd_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\gd_logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
