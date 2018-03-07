@@ -14,12 +14,19 @@ namespace WoWLauncher
 {
     public partial class Form1 : Form
     {
-        string realmList= "set realmlist logon.warmane.com";
-
+        string realmList = "set realmlist logon.warmane.com";
+        string res = "enUS";
 
         public Form1()
         {
             InitializeComponent();
+            comboBox1.Items.Insert(0,"enUS");
+            comboBox1.Items.Add("enGB");
+            comboBox1.Items.Add("deDE");
+            comboBox1.Items.Add("esES");
+            comboBox1.Items.Add("frFR");
+            comboBox1.Items.Add("ruRU");
+            comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
         }
 
 
@@ -45,11 +52,16 @@ namespace WoWLauncher
 
         private void StartButton_Click(object sender, EventArgs e)
         {
-            File.WriteAllText(@"C:\World of Warcraft Wrath of the Lich King 3.3.5 enUS\Data\enUS\realmlist.wtf", realmList);
+            File.WriteAllText($@"Data\{res}\realmlist.wtf", realmList);
 
             Process startGame = new Process();
             startGame.StartInfo.FileName = "C:\\World of Warcraft Wrath of the Lich King 3.3.5 enUS\\Wow.exe";
             startGame.Start();
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            res = comboBox1.Text.ToString();
         }
     }
 }
