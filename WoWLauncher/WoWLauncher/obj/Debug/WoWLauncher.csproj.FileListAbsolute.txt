@@ -8,3 +8,13 @@ C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.csproj.Gene
 C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.csproj.CoreCompileInputs.cache
 C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.exe
 C:\SoftUni\WoWLauncher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.pdb
+C:\SoftUni\Simple-WoW-Private-Server-Launcher\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.exe.config
+C:\SoftUni\Simple-WoW-Private-Server-Launcher\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.exe
+C:\SoftUni\Simple-WoW-Private-Server-Launcher\WoWLauncher\WoWLauncher\bin\Debug\WoWLauncher.pdb
+C:\SoftUni\Simple-WoW-Private-Server-Launcher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.csprojResolveAssemblyReference.cache
+C:\SoftUni\Simple-WoW-Private-Server-Launcher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.Form1.resources
+C:\SoftUni\Simple-WoW-Private-Server-Launcher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.Properties.Resources.resources
+C:\SoftUni\Simple-WoW-Private-Server-Launcher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.csproj.GenerateResource.cache
+C:\SoftUni\Simple-WoW-Private-Server-Launcher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.csproj.CoreCompileInputs.cache
+C:\SoftUni\Simple-WoW-Private-Server-Launcher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.exe
+C:\SoftUni\Simple-WoW-Private-Server-Launcher\WoWLauncher\WoWLauncher\obj\Debug\WoWLauncher.pdb

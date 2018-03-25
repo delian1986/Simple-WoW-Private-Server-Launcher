@@ -95,5 +95,8 @@
   <ItemGroup>
     <None Include="Resources\gd_logo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
