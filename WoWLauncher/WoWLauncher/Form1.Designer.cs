@@ -39,12 +39,14 @@
             // 
             // startButton
             // 
-            this.startButton.Location = new System.Drawing.Point(251, 390);
+            this.startButton.BackColor = System.Drawing.Color.Black;
+            this.startButton.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.startButton.Image = ((System.Drawing.Image)(resources.GetObject("startButton.Image")));
+            this.startButton.Location = new System.Drawing.Point(224, 398);
             this.startButton.Name = "startButton";
-            this.startButton.Size = new System.Drawing.Size(75, 23);
+            this.startButton.Size = new System.Drawing.Size(132, 40);
             this.startButton.TabIndex = 0;
-            this.startButton.Text = "Start";
-            this.startButton.UseVisualStyleBackColor = true;
+            this.startButton.UseVisualStyleBackColor = false;
             this.startButton.Click += new System.EventHandler(this.StartButton_Click);
             // 
             // warmane
